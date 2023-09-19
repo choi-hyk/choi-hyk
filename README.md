@@ -1,3 +1,1 @@
-안녕하세요.
-명지대학교.
-최혁입니다.
+This is Choi_Hyuk README!!
