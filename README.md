@@ -16,5 +16,8 @@
 
 *blindlchoil@gmail.com*
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi8167)](https://solved.ac/choi8167)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-hyk&show_icons=true&theme=radical)
 </div> 
