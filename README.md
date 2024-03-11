@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,4,5,30&text=CHOI_HYUK)
 
-*This is Choi_hyuk's GitHub profile!!*
 
 😺*LANGUAGE*🐶
 
@@ -12,9 +11,13 @@
 
 🍉*E-Mail*🍇
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 *blindlchoil@gmail.com*
+
+*8167chhk@naver.com*
+
+
+
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi8167)](https://solved.ac/choi8167)
 
