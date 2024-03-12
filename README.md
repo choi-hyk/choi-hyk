@@ -23,4 +23,10 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-hyk&show_icons=true&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-hyk&repo=Rhythmy)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hyk)
+
 </div> 
