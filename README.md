@@ -18,7 +18,6 @@
 
 ----
 
-[*라스코테*](https://www.notion.so/a6ed74d5ee05418fb7315cf9baa570b0?pvs=4)  
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi8167)](https://solved.ac/choi8167)
 
