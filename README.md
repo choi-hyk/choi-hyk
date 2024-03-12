@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-hyk&repo=RhythmE&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-hyk&repo=RhythmE&theme=tokyonight)](https://github.com/choi-hyk/RhythmE)
 
 <br/>
 
