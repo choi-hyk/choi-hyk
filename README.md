@@ -29,8 +29,6 @@
 
 # 🤖  *GitHub Status*  👾
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-hyk&repo=RhythmE&theme=tokyonight)](https://github.com/choi-hyk/RhythmE)
-
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hyk&theme=tokyonight)
