@@ -1,9 +1,7 @@
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,4,5,30&text=CHOI_HYUK)
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,4,5,30&text=CHOI_HYUK)
  
-## <br/>
-
 <br/><br/>
 
 ### 😺  *My Stacks*  🐶
