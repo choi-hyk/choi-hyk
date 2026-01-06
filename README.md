@@ -30,17 +30,3 @@
 # 💻  *Baekjoon*  🖱️ 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi8167)](https://solved.ac/choi8167)
-
-<br/><br/>
-
-# 🤖  *GitHub Status*  👾
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hyk&theme=tokyonight)
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-hyk&show_icons=true&theme=tokyonight)
-
-</div> 
