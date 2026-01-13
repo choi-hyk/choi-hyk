@@ -1,0 +1,47 @@
+model = "gpt-5.2-codex"
+model_reasoning_effort = "high"
+model_reasoning_summary = "detailed"
+project_root_markers = [".git", ".hg", ".sl"]
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[features]
+experimental_use_exec_command_tool = true
+enable_multi_file_edit = true
+web_search_request = true
+experimental_windows_sandbox = true
+
+[ui]
+animations = true
+notifications = true
+hide_agent_reasoning = false
+
+[sandbox]
+mode = "danger-full-access"
+
+[approval]
+policy = "never"
+
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "@playwright/mcp"]
+
+
+[mcp_servers.Context7]
+startup_timeout_sec = 30
+command = "npx"
+args = ["-y", "@upstash/context7-mcp@latest"]
+
+
+[mcp_servers.sequentialthinking]
+startup_timeout_sec = 30
+command = "npx"
+args = ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+disabled = false
+autoApprove = []
+
+
+[mcp_servers.figma]
+url = "https://mcp.figma.com/mcp"
+http_headers = { "X-Figma-Region" = "ap-northeast-2" }
