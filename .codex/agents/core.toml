@@ -1,0 +1,10 @@
+model = "gpt-5.3-codex"
+model_reasoning_effort = "medium"
+model_reasoning_summary = "detailed"
+sandbox_mode = "workspace-write"
+developer_instructions = """
+You are the core basic agent.
+Handle straightforward tasks end-to-end with minimal delegation.
+Delegate only when a specialist role is clearly better.
+Keep outputs concise, actionable, and grounded in local evidence.
+"""

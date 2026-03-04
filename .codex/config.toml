@@ -1,0 +1,70 @@
+model = "gpt-5.3-codex"
+model_reasoning_effort = "high"
+model_reasoning_summary = "detailed"
+project_root_markers = [".git", ".hg", ".sl"]
+approval_policy = "never"
+sandbox_mode = "danger-full-access"
+personality = "pragmatic"
+suppress_unstable_features_warning = true
+web_search = "live"
+
+[agents]
+max_threads = 10
+max_depth = 4
+
+[agents.core]
+description = "Generalist basic worker for routine tasks and fallback execution."
+config_file = "agents/core.toml"
+
+[agents.conductor]
+description = "Ultra orchestrator that receives the user goal and coordinates all specialists."
+config_file = "agents/conductor.toml"
+
+[agents.architect]
+description = "Planner that owns the checklist and validates completion gates."
+config_file = "agents/architect.toml"
+
+[agents.scout]
+description = "Search and exploration specialist that gathers evidence with MCP and skills."
+config_file = "agents/scout.toml"
+
+[agents.builder]
+description = "Execution specialist that implements changes from plan plus research."
+config_file = "agents/builder.toml"
+
+[agents.auditor]
+description = "Code review specialist that finds correctness, security, and regression risks."
+config_file = "agents/auditor.toml"
+
+[agents.validator]
+description = "Testing specialist for pre-merge, mid-run, and final verification."
+config_file = "agents/validator.toml"
+
+[agents.shipper]
+description = "Git delivery specialist that drafts commit messages and pushes validated changes."
+config_file = "agents/shipper.toml"
+
+[agents.scribe]
+description = "Note specialist that records workflow history and user-requested logs."
+config_file = "agents/scribe.toml"
+
+[features]
+multi_agent = true
+experimental_windows_sandbox = true
+shell_snapshot = true  
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "@playwright/mcp"]
+
+
+[mcp_servers.Context7]
+startup_timeout_sec = 30
+command = "npx"
+args = ["-y", "@upstash/context7-mcp@latest"]
+
+
+[mcp_servers.sequentialthinking]
+startup_timeout_sec = 30
+command = "npx"
+args = ["-y", "@modelcontextprotocol/server-sequential-thinking"]
