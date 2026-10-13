@@ -33,7 +33,7 @@
 의미 기반 검색과 MCP 연동을 지원하는 개인 지식 저장소입니다.
 저장한 지식을 관리하고, MCP를 지원하는 AI 클라이언트에서 활용할 수 있도록 합니다.
 
-<a href="https://github.com/HippoBox/hippobox">GitHub</a>
+<a href="https://github.com/HippoBox/hippobox">GitHub</a> · <a href="https://hippobox.org">hippobox.org</a>
 
 ## Links
 
