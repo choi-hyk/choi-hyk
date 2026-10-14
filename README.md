@@ -40,7 +40,7 @@
 <p>
   <a href="mailto:blindlchoil@gmail.com">Email</a> ·
   <a href="https://choi-hyk.github.io/portfolio/">Portfolio</a> ·
-  <a hreaf="https://www.linkedin.com/in/%ED%98%81-%EC%B5%9C-a33b76337/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/%ED%98%81-%EC%B5%9C-a33b76337/">LinkedIn</a> ·
   <a href="https://velog.io/@choi-hyk/posts">Velog</a> ·
   <a href="https://choi-hyk.github.io/#/profile">GitHub Pages</a>
 </p>
